@@ -1,0 +1,20 @@
+{
+  "name": "bankaccount-project",
+  "version": "1.0.0",
+  "description": "backaccount project demo",
+  "main": "app/bankaccountlib.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/bankaccounttest.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oladimeji9/oop-bankaccount.git"
+  },
+
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
